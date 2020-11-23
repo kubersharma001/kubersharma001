@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [![ArrowOS](https://img.shields.io/static/v1?label=Arrow&message=OS&color=167c80)](https://github.com/ArrowOS)
 - 🌱 I’m currently learning Python
 - 💬 Ask me about Android devices
-- 📫 How to reach me: [![ArrowOS](https://img.shields.io/static/v1?label=Telegram&message=chat&color=167c80)](https://t.me/kubersharma001)
+- 📫 How to reach me: [![ArrowOS](https://img.shields.io/static/v1?label=Telegram&message=chat&color=167c80)](https://t.me/kubersharma)
 - 📱  I'm currently maintaining ArrowOS on my primary device Redmi K20 Pro/ Xiaomi Mi 9T Pro.
 - ☎️ Secondary and EOL devices that I have/had and on which I work/ have worked: **beryllium, z2_plus, potter, X01BD**
 - 🌐 Find my work on XDA-developers: [kubersharma](https://forum.xda-developers.com/member.php?u=7174278)
